@@ -8,6 +8,6 @@ A very simple calculator, built as a Progressive Web App.
 
 ### Changelog
 
-**Version x.x.x**
+**Version 0.1.6**
 
 - insert changes here
